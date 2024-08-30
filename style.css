@@ -95,9 +95,9 @@ button:active {
   animation: glitch 1s linear infinite;
 }
 .color-picker {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .color-picker label {
   color: var(--main-color, #00ff00);
-  margin-right: 20px;
+  margin-right: 10px;
 }
