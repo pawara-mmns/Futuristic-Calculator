@@ -99,5 +99,5 @@ button:active {
 }
 .color-picker label {
   color: var(--main-color, #00ff00);
-  margin-right: 10px;
+  margin-right: 20px;
 }
